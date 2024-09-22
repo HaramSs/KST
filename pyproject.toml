@@ -1,5 +1,5 @@
 [project]
-name = "kst"
+name = "KST-now"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
@@ -12,4 +12,4 @@ license = {text = "MIT"}
 
 
 [tool.pdm]
-distribution = false
+distribution = true
